@@ -1,0 +1,22 @@
+{
+"products":[
+  {"id":"63aba199ccd88beeea29bbbf","title":"test product 4","price":1350,"description":"lorem ipsum set","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5a160ffd478496b209fa","createdAt":"2022-12-28T01:53:29.788Z","updatedAt":"2022-12-28T18:21:13.578Z",
+    "category":{"id":"63ac5a160ffd478496b209fa","name":"electronic","createdAt":"2022-12-28T15:00:38.609Z","updatedAt":"2022-12-28T15:05:26.801Z"}
+  },
+  {"id":"63aba1f7ccd88beeea29bbc0","title":"test product 2","price":5000,"description":"lorem ipsum set","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5c4b0ffd478496b209fc","createdAt":"2022-12-28T01:55:03.992Z","updatedAt":"2022-12-29T16:50:57.132Z",
+    "category":{"id":"63ac5c4b0ffd478496b209fc","name":"fashion","createdAt":"2022-12-28T15:10:03.979Z","updatedAt":"2022-12-28T15:10:03.979Z"}
+  },
+  {"id":"63aba234ccd88beeea29bbc6","title":"test product 3","price":1355,"description":"lorem ipsum set","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5c610ffd478496b209fd","createdAt":"2022-12-28T01:56:04.331Z","updatedAt":"2022-12-28T18:24:15.166Z",
+    "category":{"id":"63ac5c610ffd478496b209fd","name":"food","createdAt":"2022-12-28T15:10:25.459Z","updatedAt":"2022-12-28T15:10:25.459Z"}
+  },
+  {"id":"63ac800288ed1f59c7643560","title":"sadsadasd","price":1000,"description":"ini desc","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5a160ffd478496b209fa","createdAt":"2022-12-28T17:42:26.473Z","updatedAt":"2022-12-28T18:20:49.681Z",
+    "category":{"id":"63ac5a160ffd478496b209fa","name":"electronic","createdAt":"2022-12-28T15:00:38.609Z","updatedAt":"2022-12-28T15:05:26.801Z"}
+  },
+  {"id":"63ad7968faf8876a27990b31","title":"Product 1","price":1352,"description":"dessc","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5c610ffd478496b209fd","createdAt":"2022-12-29T11:26:32.614Z","updatedAt":"2022-12-29T11:27:07.589Z",
+    "category":{"id":"63ac5c610ffd478496b209fd","name":"food","createdAt":"2022-12-28T15:10:25.459Z","updatedAt":"2022-12-28T15:10:25.459Z"}
+  },
+  {"id":"63ad7ba6faf8876a27990b32","title":"test 1","price":1000,"description":"hayooo","imageUrl":"https://i.pravatar.cc","categoryId":"63ac5c4b0ffd478496b209fc","createdAt":"2022-12-29T11:36:06.313Z","updatedAt":"2022-12-29T11:36:24.666Z",
+    "category":{"id":"63ac5c4b0ffd478496b209fc","name":"fashion","createdAt":"2022-12-28T15:10:03.979Z","updatedAt":"2022-12-28T15:10:03.979Z"}
+  }
+ ]
+}
